@@ -1,4 +1,4 @@
 # Smart-Trading 
 ### Project Level: Apollo
 This is a website which allows students in National University of Singapore(NUS) to trade underutilized stuff with each other.
-<img src="https://media-public.canva.com/MADmjJFOPKA/1/screen_3x.jpg" alt="Poster" width="500" height="313" align="bottom" />
+<img src="https://raw.githubusercontent.com/Irislah/Smart-Trading/master/Poster.png" alt="Poster" width=350 align="bottom">
