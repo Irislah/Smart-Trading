@@ -4,6 +4,7 @@
 ### 1. Description:
 **This is a website which provides National University of Singapore(NUS) students the service to trade underutilized stuff with each other.**  
 <img src="https://raw.githubusercontent.com/Irislah/Smart-Trading/master/Poster.png" alt="Poster" width=350 align="middle">
+Motivation: We noticed that there are a lot of underutilized stuff such as textbooks, notebooks, clothes, portable air conditioners, and daily supplies among NUS students, especially when a semester starts or ends. While these things may be useful to other students if students can trade them with people in need. In order to solve these problems, we would like to create a website which facilitates students to buy, rent, or sell stuff to other students in NUS. 
 ***
 ### 2. Features:
 |No|Feature|Function|Status|
