@@ -19,6 +19,6 @@
 Below is the demo of our login page:<br>
 <img src="https://raw.githubusercontent.com/Irislah/Smart-Trading/master/Images/login_page_demo.png" alt="Login demo" height=350>
 ### 3. Background:
-1. This website is built using Html, Css, and Javascript.
+1. This website is built using programming language Html, Css, and Javascript.
 2. Some modeling tools are used.
 ***
