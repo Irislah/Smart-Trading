@@ -15,7 +15,7 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 |4|Goods column|Goods are classified to facilitate students' search.|Uncompleted|
 |5|Add-details tab|Students can sell goods by clicking on it.|Uncompleted|
 |6|Pictures of goods|Students can view more information by clicking on the pictures of the goods and scroll to view more pictures.|Uncompleted|
-|7|Logo|Completed|
+|7|Logo|The logo of our website|Completed|
 ***
 #### Login Page:
 Below is the demo of our login page:<br>
