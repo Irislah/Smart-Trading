@@ -16,7 +16,7 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 |5|Top navigation bar|Navigate between mainpage and the detail of the stuff. |Completed|
 |6|Pictures of goods|Students can view more information by clicking on the pictures of the goods and scroll to view more pictures.|Uncompleted|
 |7|Fixed floating bar|When the user scroll down, the position of this bar remains. |Completed|
-***
+
 #### Login Page:
 Below is the demo of our login page:<br>
 <img src="https://raw.githubusercontent.com/Irislah/Smart-Trading/master/Images/login_page_demo.png" alt="Login demo" height=350>
@@ -28,7 +28,7 @@ Below is the demo of our main page:<br>
 #### Item Detail:
 Below is the demo of our login page:<br>
 <img src="https://raw.githubusercontent.com/Irislah/Smart-Trading/master/Images/login_page_demo.png" alt="Login demo" height=350>
-
+***
 
 ### 3. Background:
 1. This website is built using programming language: Html, Css, Php, and Javascript.
