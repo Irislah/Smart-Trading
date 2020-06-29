@@ -34,3 +34,8 @@ Below is the demo of our login page:<br>
 1. This website is built using programming language: Html, Css, Php, and Javascript.
 2. Some modeling tools are used.
 ***
+
+
+### 4. Development Process
+We wrote the website using html and css through self-learning. There was a problem that we couldn't arrange the elements well, then we researched online and found out the method to keep two <div> elements in the same line.
+Now we are working on the back-end of the website to deal with the goods details.
