@@ -37,5 +37,5 @@ Below is the demo of our selected goods page:<br>
 
 
 ### 4. Development Process
-We wrote the website using html and css through self-learning. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't keep two &<div> elements in the same line, then we researched online and found out the method to arrange the elements better.
+We wrote the website using html and css through self-learning. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't keep two elements in the same line, then we researched online and found out the method to arrange the elements better.
 Up till now we have accomplished most of our website and we are working on the back-end of the website to deal with the goods details as well as upload some goods for testing. We are also going to add the rolling advertisement part to the website.
