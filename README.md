@@ -37,5 +37,5 @@ Below is the demo of our login page:<br>
 
 
 ### 4. Development Process
-We wrote the website using html and css through self-learning. There was a problem that we couldn't arrange the elements well, then we researched online and found out the method to keep two <div> elements in the same line.
-Now we are working on the back-end of the website to deal with the goods details.
+We wrote the website using html and css through self-learning. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't arrange the elements well, then we researched online and found out the method to keep two "<div>" elements in the same line.
+Now we are working on the back-end of the website to deal with the goods details and upload some goods for testing. We are also going to add the rolling advertisement part to the website.
