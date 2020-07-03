@@ -4,47 +4,102 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MainPage</title>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./mainpage.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
-    <header>
+    <div class="topnav">
+        <div class="welcome">Welcome to Smart Trading!</div>
         <div>
-            <ul>
-                <li>HOMEPAGE</li>
-                <li>BUY</li>
-                <li>SELL</li>
-            </ul>
+            <a href="item.html">Sell</a>
+            <a href="contactus.html">Contact</a>
+            <a href="aboutus.html">About</a>
+            <a class="active" href="#home">Home</a>
         </div>
-    </header>
-
-    <div>
-        <img src="logo2.png" width= "300" alt="logo">
     </div>
 
-    <div class="searchbar">
-        <input type="text" placeholder="Search...">
+    <div id="search">
+        <form method="get" action="">
+            <div class="tb">
+                <div class="td"><input type="text" placeholder="Search.." required></div>
+                <div class="td" id="s-cover">
+                    <button type="submit">
+                        <div id="s-circle"></div>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </form>
     </div>
 
+    <img src="logo2.png" style="z-index: -2; margin-top: 0px;" width= "300" alt="logo">
+
     <div>
-        <h2>Buy</h2>
+        <marquee class="advertisement" behavior="scroll" direction="left" scrollAmount=6>rolling advertisements</marquee>
+    </div>
+
+    <div class="buypart" style="margin-top: 20px;">
+        <h2>Classification</h2>
         <ul>
-            <li>Dormitory Stuff</li>
-            <li>Academics</li>
-            <li>Clothes & Shoes</li>
-            <li>Cosmetics</li>
-            <li>Others</li>
+            <li><a href="#">Dormitory Stuff</a></li>
+            <li><a href="#">Academics</a></li>
+            <li><a href="#">Clothes & Shoes</a></li>
+            <li><a href="#">Cosmetics</a></li>
+            <li><a href="#">Others</a></li>
         </ul>
     </div>
 
     <div>
-        <h2>Sell</h2>
-        <p>Add details</p>
+        <h2 class="wrapper" style="margin-top: 30px;">All Goods</h2>
+        <br>
+        <br>
+        <div class="wrapper">
+            <a href="item.html"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+            <a href="#"><div class="content">PICTURE</div></a>
+        </div>
     </div>
 
+    <br>
+    <br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br>
 </body>
 </html>
-
 
 
 
