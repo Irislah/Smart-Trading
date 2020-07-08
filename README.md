@@ -10,7 +10,7 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 |No|Feature|Function|Status|
 |:-|:-|:-|:-|
 |1|Login page|Users can use username and password to log in.|Completed|
-|2|Rolling advertisements|Shows the goods in demand.|Uncompleted|
+|2|Rolling advertisements|Shows the goods in demand.|Completed|
 |3|Search box|Students can search whatever they want.|Completed|
 |4|Goods column|Goods are classified to facilitate students' search.|Completed|
 |5|Top navigation bar|Navigate between mainpage and the detail of the stuff. |Completed|
