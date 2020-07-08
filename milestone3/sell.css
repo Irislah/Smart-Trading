@@ -1,0 +1,200 @@
+*{
+	margin:0;
+	padding:0;
+	color:#424242;
+	font-family: arial;
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+/* navigation */
+/* clear float influence */
+.nav::after{
+	content: "";
+	display: block;
+	clear:both;
+}
+
+.nav .list-item{
+	float:left;
+	margin:0 10px;
+	height:30px;
+	line-height: 30px;
+
+}
+
+.nav .list-item a{
+	padding:1px 20px;
+	color:#0C60AF;
+	font-weight: bold;
+	height:30px;
+	display:inline-block;
+	border-radius: 12px;
+}
+
+.nav .list-item a:hover{
+	background-color: #2196F3;
+	color:#fff;
+
+}
+
+
+/* styles for buy, sell tab */
+h2 {
+    color: lightcyan;
+    background-color: #2C7BC4;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.1em;
+    line-height: 2em;
+    height: 2em;
+    text-align: center;
+}
+
+
+/* top navigation */
+* {
+	box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  height: 50px;
+}
+
+.topnav a {
+	float: right;
+	display: block;
+	font-family: 'Verdana', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: #ff4e00;
+	text-align: center;
+	text-decoration: none;
+	font-size: 17px;
+	padding: 14px, 16px;
+	background-color: whitesmoke;
+	height: 40px;
+	width: 100px;
+	line-height: 40px;
+}  
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: #e57200;
+}
+
+.topnav a.active {
+  background-color: #0055c9;
+  color: white;
+}
+
+.topnav a.active:hover {
+  background-color: #234B71;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+/* logo */
+.logo img{
+	/*border:1px solid red;*/
+	left:20px;
+	margin-top:-30px;
+	width:300px;
+	z-index: -2;
+}
+
+
+h2 {
+    color: white;
+    background-color: #ff8345;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0.1em;
+    line-height: 2em;
+    height: 2em;
+	text-align: center;
+	border: 3px dashed #ff4c00;
+}
+
+
+/* the description */
+.title {
+	margin-left: 490px;
+	margin-right: 8px;
+}
+
+/* The classified column */
+.buypart{
+	padding:10px;
+	background-color:rgb(235, 233, 233);
+	position:fixed;
+	top:450px;
+	left:20px;
+	height:200px;
+	border-radius: 10px;
+}
+
+.buypart li{
+	width:400px;
+	height:40px;
+	line-height:40px;
+	font-weight: bolder;
+	font-size:18px;
+}
+
+.buypart a{
+	padding:5px 10px;
+
+}
+
+.buypart a:hover{
+	background-color:#234B71;
+	color:#fff;
+}
+
+.wrapper{
+	border-radius: 5px;
+	border:3px dashed #ff4c00;
+	margin-left: 500px;
+	margin-right: 10px;
+}
+
+.content{
+	float:left;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	color:#fff;
+	background-color: #bfcfdf;
+	width:150px;
+	height:180px;
+	text-align: center;
+	line-height: 180px;
+	font-size: 25px;
+}
+
+.wrapper::after{
+	content: "";
+	display: block;
+	clear:both;
+}
+
+.picture{
+	position:absolute;
+	background-color: grey;
+	width:420px;
+	height:350px;
+	top:130px;
+	left:20px;
+}
