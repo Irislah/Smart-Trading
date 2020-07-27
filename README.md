@@ -27,6 +27,8 @@ https://youtu.be/-wowBrZY03U
 
 #### User guide:
 https://docs.google.com/document/d/1ClFojU6iGcDt3lMT0WaNP_XXYX7GDE14KMaVYzCDvF0/edit?usp=sharing
+#### Developer guide:
+https://docs.google.com/document/d/1ijMby6f9R9bis8LOyVtaZcZShUXYbJpg0ZMczNrj1FU/edit?usp=sharing
 
 ### 4. Development Process
 We wrote the website using html and css through self-learning. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't keep two elements in the same line, then we researched online and found out the method to arrange the elements better.
