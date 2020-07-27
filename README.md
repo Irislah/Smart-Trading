@@ -11,7 +11,7 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 |:-|:-|:-|:-|
 |1|Login page|Users can use username and password to log in.|Completed|
 |2|Rolling advertisements|Shows the goods in demand.|Completed|
-|3|Search box|Students can search whatever they want.|Completed|
+|3|Auto-width|The number of items displayed each columns will change when the width of the browser changes. |Completed|
 |4|Goods column|Goods are classified to facilitate students' search.|Completed|
 |5|Top navigation bar|Navigate between mainpage and the detail of the stuff. |Completed|
 |6|Pictures of goods|Students can view more information by clicking on the pictures of the goods and scroll to view more pictures.|Completed|
@@ -21,8 +21,7 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 Technical: 
 https://youtu.be/HCulybPQ-8w
 
-
-Original Video (Updated a bit):
+Original Video:
 https://youtu.be/-wowBrZY03U
 
 #### User guide:
