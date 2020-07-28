@@ -18,8 +18,8 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 |7|Fixed floating bar|When the user scroll down, the position of this bar remains. |Completed|
 
 #### Video Links:
-Technical: 
-https://youtu.be/HCulybPQ-8w
+Upload&Classfy stuff: 
+https://youtu.be/q7I0tkgRqWA
 
 Original Video:
 https://youtu.be/-wowBrZY03U
