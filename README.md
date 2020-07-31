@@ -30,9 +30,9 @@ https://docs.google.com/document/d/1ClFojU6iGcDt3lMT0WaNP_XXYX7GDE14KMaVYzCDvF0/
 https://docs.google.com/document/d/1ijMby6f9R9bis8LOyVtaZcZShUXYbJpg0ZMczNrj1FU/edit?usp=sharing
 
 ### 4. Development Process
-We wrote the website using html and css through self-learning. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't keep two elements in the same line, then we researched online and found out the method to arrange the elements better.
+We wrote the website using html, css, and php. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't keep two elements in the same line, then we researched online and found out the method to arrange the elements better.
 Up till now we have accomplished most of our website and we are working on the back-end of the website to deal with the goods details as well as upload some goods for testing. We added the rolling advertisement part to the website.
-By the end of Milestone 3, we finished the design of the website and built the database. We also connected them to make it work.
+By the end of Milestone 3, we finished the design of the website and built the database. We also connected them to make it work. So far, our website can let users upload their stuff and meanwhile classify them by certain catergories. 
 
 ### User feedback:
 https://docs.google.com/forms/d/1EJd9QyzfaumGfGOav_fl0CQPbOsJyF8BD3AmNIM-ILo/edit#responses
