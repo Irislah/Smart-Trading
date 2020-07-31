@@ -17,6 +17,9 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 |6|Pictures of goods|Students can view more information by clicking on the pictures of the goods and scroll to view more pictures.|Completed|
 |7|Fixed floating bar|When the user scroll down, the position of this bar remains. |Completed|
 
+#### Website links:
+http://554a604b1c12.ngrok.io
+
 #### Video Links:
 Upload&Classfy stuff: 
 https://youtu.be/q7I0tkgRqWA
