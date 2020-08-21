@@ -9,13 +9,13 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 ### 2. Features:
 |No|Feature|Function|Status|
 |:-|:-|:-|:-|
-|1|Login page|Users can use username and password to log in.|Completed|
-|2|Rolling advertisements|Shows the goods in demand.|Completed|
+|1|Sign up / Login page|Users can use username and password to log in.|Completed|
+|2|Upload|Upload goods and display in the mainpage|Completed|
 |3|Auto-width|The number of items displayed each columns will change when the width of the browser changes. |Completed|
-|4|Goods column|Goods are classified to facilitate students' search.|Completed|
+|4|Goods classification|Goods are classified to facilitate students' search.|Completed|
 |5|Top navigation bar|Navigate between mainpage and the detail of the stuff. |Completed|
-|6|Pictures of goods|Students can view more information by clicking on the pictures of the goods and scroll to view more pictures.|Completed|
-|7|Fixed floating bar|When the user scroll down, the position of this bar remains. |Completed|
+|6|Contanct owner to buy stuff|Contact the goods owner directly by phone|Completed|
+|7|Delete|Delete your own items once sold. |Completed|
 
 #### Website links:
 http://554a604b1c12.ngrok.io
@@ -33,7 +33,7 @@ https://docs.google.com/document/d/1ClFojU6iGcDt3lMT0WaNP_XXYX7GDE14KMaVYzCDvF0/
 https://docs.google.com/document/d/1ijMby6f9R9bis8LOyVtaZcZShUXYbJpg0ZMczNrj1FU/edit?usp=sharing
 
 ### 4. Development Process
-We wrote the website using html, css, and php. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't keep two elements in the same line, then we researched online and found out the method to arrange the elements better.
+We wrote the website using html, css, php and javascript. We first decided the basic elements in the website: the title, logo, search bar, classification and pictures of the goods. After adding the essential elements, we designed the outlook of the website, and wrote the css format accordingly. There was a problem that we couldn't keep two elements in the same line, then we researched online and found out the method to arrange the elements better.
 Up till now we have accomplished most of our website and we are working on the back-end of the website to deal with the goods details as well as upload some goods for testing. We added the rolling advertisement part to the website.
 By the end of Milestone 3, we finished the design of the website and built the database. We also connected them to make it work. So far, our website can let users upload their stuff and meanwhile classify them by certain catergories. 
 
