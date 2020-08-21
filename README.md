@@ -21,8 +21,8 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 http://554a604b1c12.ngrok.io
 
 #### Video Links:
-Upload&Classfy stuff: 
-https://youtu.be/q7I0tkgRqWA
+Final:
+https://youtu.be/DlPb6TRiVog
 
 Original Video:
 https://youtu.be/-wowBrZY03U
