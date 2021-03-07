@@ -17,8 +17,6 @@ Motivation: We noticed that there are a lot of underutilized stuff such as textb
 |6|Contanct owner to buy stuff|Contact the goods owner directly by phone|Completed|
 |7|Delete|Delete your own items once sold. |Completed|
 
-#### Website links:
-http://554a604b1c12.ngrok.io
 
 #### Video Links:
 Final:
